@@ -1,3 +1,5 @@
+export {};
+
 /*
 Classes em TypeScript - Moldes de Objetos
 

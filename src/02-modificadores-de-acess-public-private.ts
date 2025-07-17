@@ -1,3 +1,5 @@
+export {};
+
 /*
 Em POO, modificadores de acesso controlam a visibilidade e acesso aos atributos e métodos de uma classe
 
